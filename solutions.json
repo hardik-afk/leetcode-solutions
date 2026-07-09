@@ -11,5 +11,18 @@
     "submissionId": "2060821300",
     "timestamp": "1783530960",
     "path": "Easy/1580_Shuffle_the_Array.java"
+  },
+  {
+    "problemId": "908",
+    "problemTitle": "Middle of the Linked List",
+    "problemSlug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "43.1 MB",
+    "submissionId": "2062066002",
+    "timestamp": "1783619218",
+    "path": "Easy/0908_Middle_of_the_Linked_List.java"
   }
 ]
