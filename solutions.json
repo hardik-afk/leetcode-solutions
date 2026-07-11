@@ -24,5 +24,18 @@
     "submissionId": "2062066002",
     "timestamp": "1783619218",
     "path": "Easy/0908_Middle_of_the_Linked_List.java"
+  },
+  {
+    "problemId": "142",
+    "problemTitle": "Linked List Cycle II",
+    "problemSlug": "linked-list-cycle-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "46.7 MB",
+    "submissionId": "2064170029",
+    "timestamp": "1783793061",
+    "path": "Medium/0142_Linked_List_Cycle_II.java"
   }
 ]
