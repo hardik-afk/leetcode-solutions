@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 3
+Total Solved: 4
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 3
 ## Medium
 
 - Linked List Cycle II ([Java](Medium/0142_Linked_List_Cycle_II.java))
+- Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 
 ## Hard
 
@@ -20,7 +21,7 @@ Total Solved: 3
 | Difficulty | Count |
 |------------|--------|
 | Easy | 2 |
-| Medium | 1 |
+| Medium | 2 |
 | Hard | 0 |
 
 ---
