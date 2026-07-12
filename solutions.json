@@ -37,5 +37,18 @@
     "submissionId": "2064170029",
     "timestamp": "1783793061",
     "path": "Medium/0142_Linked_List_Cycle_II.java"
+  },
+  {
+    "problemId": "287",
+    "problemTitle": "Find the Duplicate Number",
+    "problemSlug": "find-the-duplicate-number",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "82.7 MB",
+    "submissionId": "2065321616",
+    "timestamp": "1783879630",
+    "path": "Medium/0287_Find_the_Duplicate_Number.java"
   }
 ]
