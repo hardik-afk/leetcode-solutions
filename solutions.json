@@ -50,5 +50,18 @@
     "submissionId": "2065321616",
     "timestamp": "1783879630",
     "path": "Medium/0287_Find_the_Duplicate_Number.java"
+  },
+  {
+    "problemId": "202",
+    "problemTitle": "Happy Number",
+    "problemSlug": "happy-number",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "42.2 MB",
+    "submissionId": "2066498860",
+    "timestamp": "1783965230",
+    "path": "Easy/0202_Happy_Number.java"
   }
 ]
