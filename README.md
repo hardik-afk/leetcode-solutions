@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 4
+Total Solved: 5
 
 ## Easy
 
+- Happy Number ([Java](Easy/0202_Happy_Number.java))
 - Middle of the Linked List ([Java](Easy/0908_Middle_of_the_Linked_List.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 
@@ -20,7 +21,7 @@ Total Solved: 4
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 2 |
+| Easy | 3 |
 | Medium | 2 |
 | Hard | 0 |
 
