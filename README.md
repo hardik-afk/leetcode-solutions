@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 5
+Total Solved: 6
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 5
 ## Medium
 
 - Linked List Cycle II ([Java](Medium/0142_Linked_List_Cycle_II.java))
+- Maximum Product Subarray ([Java](Medium/0152_Maximum_Product_Subarray.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 
 ## Hard
@@ -22,7 +23,7 @@ Total Solved: 5
 | Difficulty | Count |
 |------------|--------|
 | Easy | 3 |
-| Medium | 2 |
+| Medium | 3 |
 | Hard | 0 |
 
 ---
