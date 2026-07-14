@@ -63,5 +63,18 @@
     "submissionId": "2066498860",
     "timestamp": "1783965230",
     "path": "Easy/0202_Happy_Number.java"
+  },
+  {
+    "problemId": "152",
+    "problemTitle": "Maximum Product Subarray",
+    "problemSlug": "maximum-product-subarray",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "47.3 MB",
+    "submissionId": "2067412170",
+    "timestamp": "1784036259",
+    "path": "Medium/0152_Maximum_Product_Subarray.java"
   }
 ]
