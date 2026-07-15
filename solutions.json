@@ -76,5 +76,18 @@
     "submissionId": "2067412170",
     "timestamp": "1784036259",
     "path": "Medium/0152_Maximum_Product_Subarray.java"
+  },
+  {
+    "problemId": "1288",
+    "problemTitle": "Maximum Subarray Sum with One Deletion",
+    "problemSlug": "maximum-subarray-sum-with-one-deletion",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "6 ms",
+    "memory": "56.2 MB",
+    "submissionId": "2068957722",
+    "timestamp": "1784137002",
+    "path": "Medium/1288_Maximum_Subarray_Sum_with_One_Deletion.java"
   }
 ]
