@@ -89,5 +89,18 @@
     "submissionId": "2068957722",
     "timestamp": "1784137002",
     "path": "Medium/1288_Maximum_Subarray_Sum_with_One_Deletion.java"
+  },
+  {
+    "problemId": "1849",
+    "problemTitle": "Maximum Absolute Sum of Any Subarray",
+    "problemSlug": "maximum-absolute-sum-of-any-subarray",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "7 ms",
+    "memory": "66.7 MB",
+    "submissionId": "2070204440",
+    "timestamp": "1784222226",
+    "path": "Medium/1849_Maximum_Absolute_Sum_of_Any_Subarray.java"
   }
 ]
