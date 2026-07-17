@@ -102,5 +102,18 @@
     "submissionId": "2070204440",
     "timestamp": "1784222226",
     "path": "Medium/1849_Maximum_Absolute_Sum_of_Any_Subarray.java"
+  },
+  {
+    "problemId": "954",
+    "problemTitle": "Maximum Sum Circular Subarray",
+    "problemSlug": "maximum-sum-circular-subarray",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "5 ms",
+    "memory": "51 MB",
+    "submissionId": "2071396953",
+    "timestamp": "1784308737",
+    "path": "Medium/0954_Maximum_Sum_Circular_Subarray.java"
   }
 ]
