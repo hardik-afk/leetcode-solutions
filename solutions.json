@@ -84,10 +84,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "6 ms",
-    "memory": "56.2 MB",
-    "submissionId": "2068957722",
-    "timestamp": "1784137002",
+    "runtime": "7 ms",
+    "memory": "55.9 MB",
+    "submissionId": "2081127574",
+    "timestamp": "1785004126",
     "path": "Medium/1288_Maximum_Subarray_Sum_with_One_Deletion.java"
   },
   {
