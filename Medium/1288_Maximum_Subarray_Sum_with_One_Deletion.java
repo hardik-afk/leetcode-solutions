@@ -3,28 +3,44 @@
  * Problem ID: 1288
  * Difficulty: Medium
  * Language: Java
- * Runtime: 6 ms
- * Memory: 56.2 MB
+ * Runtime: 7 ms
+ * Memory: 55.9 MB
  * Synced From: LeetCode
- * Date: 2026-07-15
+ * Date: 2026-07-25
  */
 
 class Solution {
     public int maximumSum(int[] arr) {
 
-        int noDeletion = arr[0];
-        int oneDeletion = 0;
-        int ans = arr[0];
+        int n = arr.length;
 
-        for (int i = 1; i < arr.length; i++) {
+        int nodelete = arr[0]; // maximum sum ending here without deletion
+        int onedelete = Integer.MIN_VALUE; // maximum sum ending here with one deletion
 
-            oneDeletion = Math.max(noDeletion, oneDeletion + arr[i]);
+        int res = arr[0];
 
-            noDeletion = Math.max(arr[i], noDeletion + arr[i]);
+        for (int i = 1; i < n; i++) {
 
-            ans = Math.max(ans, Math.max(noDeletion, oneDeletion));
+            int prev_nodelete = nodelete;
+            int prev_onedelete = onedelete;
+
+            // no deletion case
+            nodelete = Math.max(prev_nodelete + arr[i], arr[i]);
+
+            // one deletion case
+            int v2;
+            if (prev_onedelete == Integer.MIN_VALUE) {
+                v2 = Integer.MIN_VALUE;
+            } else {
+                v2 = prev_onedelete + arr[i];
+            }
+
+            onedelete = Math.max(prev_nodelete, v2);
+
+            // update answer
+            res = Math.max(res, Math.max(nodelete, onedelete));
         }
 
-        return ans;
+        return res;
     }
 }
