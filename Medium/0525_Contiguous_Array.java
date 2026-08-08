@@ -3,8 +3,8 @@
  * Problem ID: 525
  * Difficulty: Medium
  * Language: Java
- * Runtime: 25 ms
- * Memory: 65.5 MB
+ * Runtime: 24 ms
+ * Memory: 65.7 MB
  * Synced From: LeetCode
  * Date: 2026-08-08
  */
