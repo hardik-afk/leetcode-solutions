@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 10
+Total Solved: 11
 
 ## Easy
 
 - Happy Number ([Java](Easy/0202_Happy_Number.java))
 - Middle of the Linked List ([Java](Easy/0908_Middle_of_the_Linked_List.java))
+- Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 
 ## Medium
@@ -26,7 +27,7 @@ Total Solved: 10
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 3 |
+| Easy | 4 |
 | Medium | 7 |
 | Hard | 0 |
 
