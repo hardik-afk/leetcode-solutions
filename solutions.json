@@ -123,10 +123,10 @@
     "difficulty": "Medium",
     "language": "Java",
     "extension": "java",
-    "runtime": "25 ms",
-    "memory": "65.5 MB",
-    "submissionId": "2099611925",
-    "timestamp": "1786223899",
+    "runtime": "24 ms",
+    "memory": "65.7 MB",
+    "submissionId": "2099615570",
+    "timestamp": "1786224414",
     "path": "Medium/0525_Contiguous_Array.java"
   }
 ]
