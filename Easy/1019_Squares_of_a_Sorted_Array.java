@@ -4,7 +4,7 @@
  * Difficulty: Easy
  * Language: Java
  * Runtime: 1 ms
- * Memory: 47.5 MB
+ * Memory: 47.4 MB
  * Synced From: LeetCode
  * Date: 2026-08-08
  */
