@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 11
+Total Solved: 12
 
 ## Easy
 
@@ -11,6 +11,7 @@ Total Solved: 11
 
 ## Medium
 
+- Merge Intervals ([Java](Medium/0056_Merge_Intervals.java))
 - Linked List Cycle II ([Java](Medium/0142_Linked_List_Cycle_II.java))
 - Maximum Product Subarray ([Java](Medium/0152_Maximum_Product_Subarray.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
@@ -28,7 +29,7 @@ Total Solved: 11
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 7 |
+| Medium | 8 |
 | Hard | 0 |
 
 ---
