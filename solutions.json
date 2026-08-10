@@ -141,5 +141,18 @@
     "submissionId": "2099618604",
     "timestamp": "1786224884",
     "path": "Easy/1019_Squares_of_a_Sorted_Array.java"
+  },
+  {
+    "problemId": "56",
+    "problemTitle": "Merge Intervals",
+    "problemSlug": "merge-intervals",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "11 ms",
+    "memory": "49.2 MB",
+    "submissionId": "2101466723",
+    "timestamp": "1786361622",
+    "path": "Medium/0056_Merge_Intervals.java"
   }
 ]
