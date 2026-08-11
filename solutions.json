@@ -154,5 +154,18 @@
     "submissionId": "2101466723",
     "timestamp": "1786361622",
     "path": "Medium/0056_Merge_Intervals.java"
+  },
+  {
+    "problemId": "57",
+    "problemTitle": "Insert Interval",
+    "problemSlug": "insert-interval",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "46.9 MB",
+    "submissionId": "2103313103",
+    "timestamp": "1786472863",
+    "path": "Medium/0057_Insert_Interval.java"
   }
 ]
