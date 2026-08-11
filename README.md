@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 13
+Total Solved: 14
 
 ## Easy
 
@@ -18,6 +18,7 @@ Total Solved: 13
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 - Contiguous Array ([Java](Medium/0525_Contiguous_Array.java))
 - Maximum Sum Circular Subarray ([Java](Medium/0954_Maximum_Sum_Circular_Subarray.java))
+- Interval List Intersections ([Java](Medium/1028_Interval_List_Intersections.java))
 - Maximum Subarray Sum with One Deletion ([Java](Medium/1288_Maximum_Subarray_Sum_with_One_Deletion.java))
 - Maximum Absolute Sum of Any Subarray ([Java](Medium/1849_Maximum_Absolute_Sum_of_Any_Subarray.java))
 
@@ -30,7 +31,7 @@ Total Solved: 13
 | Difficulty | Count |
 |------------|--------|
 | Easy | 4 |
-| Medium | 9 |
+| Medium | 10 |
 | Hard | 0 |
 
 ---
