@@ -167,5 +167,18 @@
     "submissionId": "2103313103",
     "timestamp": "1786472863",
     "path": "Medium/0057_Insert_Interval.java"
+  },
+  {
+    "problemId": "1028",
+    "problemTitle": "Interval List Intersections",
+    "problemSlug": "interval-list-intersections",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "3 ms",
+    "memory": "47.4 MB",
+    "submissionId": "2103438862",
+    "timestamp": "1786482292",
+    "path": "Medium/1028_Interval_List_Intersections.java"
   }
 ]
