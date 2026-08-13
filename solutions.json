@@ -180,5 +180,18 @@
     "submissionId": "2103438862",
     "timestamp": "1786482292",
     "path": "Medium/1028_Interval_List_Intersections.java"
+  },
+  {
+    "problemId": "121",
+    "problemTitle": "Best Time to Buy and Sell Stock",
+    "problemSlug": "best-time-to-buy-and-sell-stock",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "1 ms",
+    "memory": "94.6 MB",
+    "submissionId": "2105833544",
+    "timestamp": "1786645155",
+    "path": "Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java"
   }
 ]
