@@ -1,11 +1,12 @@
 # LeetCode Solutions
 
-Total Solved: 15
+Total Solved: 16
 
 ## Easy
 
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Happy Number ([Java](Easy/0202_Happy_Number.java))
+- Reverse String ([Java](Easy/0344_Reverse_String.java))
 - Middle of the Linked List ([Java](Easy/0908_Middle_of_the_Linked_List.java))
 - Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
@@ -31,7 +32,7 @@ Total Solved: 15
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 5 |
+| Easy | 6 |
 | Medium | 10 |
 | Hard | 0 |
 
