@@ -193,5 +193,18 @@
     "submissionId": "2105833544",
     "timestamp": "1786645155",
     "path": "Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java"
+  },
+  {
+    "problemId": "344",
+    "problemTitle": "Reverse String",
+    "problemSlug": "reverse-string",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "0 ms",
+    "memory": "48.4 MB",
+    "submissionId": "2112879868",
+    "timestamp": "1787153909",
+    "path": "Easy/0344_Reverse_String.java"
   }
 ]
