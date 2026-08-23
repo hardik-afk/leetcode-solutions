@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 16
+Total Solved: 17
 
 ## Easy
 
@@ -9,6 +9,7 @@ Total Solved: 16
 - Reverse String ([Java](Easy/0344_Reverse_String.java))
 - Middle of the Linked List ([Java](Easy/0908_Middle_of_the_Linked_List.java))
 - Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
+- Remove All Adjacent Duplicates In String ([Java](Easy/1128_Remove_All_Adjacent_Duplicates_In_String.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 
 ## Medium
@@ -32,7 +33,7 @@ Total Solved: 16
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 6 |
+| Easy | 7 |
 | Medium | 10 |
 | Hard | 0 |
 
