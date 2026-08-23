@@ -206,5 +206,18 @@
     "submissionId": "2112879868",
     "timestamp": "1787153909",
     "path": "Easy/0344_Reverse_String.java"
+  },
+  {
+    "problemId": "1128",
+    "problemTitle": "Remove All Adjacent Duplicates In String",
+    "problemSlug": "remove-all-adjacent-duplicates-in-string",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "26 ms",
+    "memory": "47.2 MB",
+    "submissionId": "2117404033",
+    "timestamp": "1787493007",
+    "path": "Easy/1128_Remove_All_Adjacent_Duplicates_In_String.java"
   }
 ]
