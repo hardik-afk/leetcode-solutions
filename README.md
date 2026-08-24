@@ -1,9 +1,10 @@
 # LeetCode Solutions
 
-Total Solved: 17
+Total Solved: 18
 
 ## Easy
 
+- Valid Parentheses ([Java](Easy/0020_Valid_Parentheses.java))
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Happy Number ([Java](Easy/0202_Happy_Number.java))
 - Reverse String ([Java](Easy/0344_Reverse_String.java))
@@ -33,7 +34,7 @@ Total Solved: 17
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 7 |
+| Easy | 8 |
 | Medium | 10 |
 | Hard | 0 |
 
