@@ -219,5 +219,18 @@
     "submissionId": "2117404033",
     "timestamp": "1787493007",
     "path": "Easy/1128_Remove_All_Adjacent_Duplicates_In_String.java"
+  },
+  {
+    "problemId": "20",
+    "problemTitle": "Valid Parentheses",
+    "problemSlug": "valid-parentheses",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "43.7 MB",
+    "submissionId": "2118749027",
+    "timestamp": "1787591831",
+    "path": "Easy/0020_Valid_Parentheses.java"
   }
 ]
