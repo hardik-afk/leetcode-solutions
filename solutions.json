@@ -232,5 +232,18 @@
     "submissionId": "2118749642",
     "timestamp": "1787591856",
     "path": "Easy/0020_Valid_Parentheses.java"
+  },
+  {
+    "problemId": "496",
+    "problemTitle": "Next Greater Element I",
+    "problemSlug": "next-greater-element-i",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "45.5 MB",
+    "submissionId": "2139946433",
+    "timestamp": "1789240493",
+    "path": "Easy/0496_Next_Greater_Element_I.java"
   }
 ]
