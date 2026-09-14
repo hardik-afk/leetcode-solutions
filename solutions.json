@@ -245,5 +245,18 @@
     "submissionId": "2139946433",
     "timestamp": "1789240493",
     "path": "Easy/0496_Next_Greater_Element_I.java"
+  },
+  {
+    "problemId": "739",
+    "problemTitle": "Daily Temperatures",
+    "problemSlug": "daily-temperatures",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "62 ms",
+    "memory": "107.6 MB",
+    "submissionId": "2141837172",
+    "timestamp": "1789407080",
+    "path": "Medium/0739_Daily_Temperatures.java"
   }
 ]
