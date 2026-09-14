@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 19
+Total Solved: 20
 
 ## Easy
 
@@ -22,6 +22,7 @@ Total Solved: 19
 - Maximum Product Subarray ([Java](Medium/0152_Maximum_Product_Subarray.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
 - Contiguous Array ([Java](Medium/0525_Contiguous_Array.java))
+- Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
 - Maximum Sum Circular Subarray ([Java](Medium/0954_Maximum_Sum_Circular_Subarray.java))
 - Interval List Intersections ([Java](Medium/1028_Interval_List_Intersections.java))
 - Maximum Subarray Sum with One Deletion ([Java](Medium/1288_Maximum_Subarray_Sum_with_One_Deletion.java))
@@ -36,7 +37,7 @@ Total Solved: 19
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 10 |
+| Medium | 11 |
 | Hard | 0 |
 
 ---
