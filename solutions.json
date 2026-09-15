@@ -258,5 +258,18 @@
     "submissionId": "2141837172",
     "timestamp": "1789407080",
     "path": "Medium/0739_Daily_Temperatures.java"
+  },
+  {
+    "problemId": "503",
+    "problemTitle": "Next Greater Element II",
+    "problemSlug": "next-greater-element-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "9 ms",
+    "memory": "48.4 MB",
+    "submissionId": "2142880404",
+    "timestamp": "1789492879",
+    "path": "Medium/0503_Next_Greater_Element_II.java"
   }
 ]
