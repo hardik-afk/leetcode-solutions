@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 20
+Total Solved: 21
 
 ## Easy
 
@@ -21,6 +21,7 @@ Total Solved: 20
 - Linked List Cycle II ([Java](Medium/0142_Linked_List_Cycle_II.java))
 - Maximum Product Subarray ([Java](Medium/0152_Maximum_Product_Subarray.java))
 - Find the Duplicate Number ([Java](Medium/0287_Find_the_Duplicate_Number.java))
+- Next Greater Element II ([Java](Medium/0503_Next_Greater_Element_II.java))
 - Contiguous Array ([Java](Medium/0525_Contiguous_Array.java))
 - Daily Temperatures ([Java](Medium/0739_Daily_Temperatures.java))
 - Maximum Sum Circular Subarray ([Java](Medium/0954_Maximum_Sum_Circular_Subarray.java))
@@ -37,7 +38,7 @@ Total Solved: 20
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 11 |
+| Medium | 12 |
 | Hard | 0 |
 
 ---
