@@ -271,5 +271,18 @@
     "submissionId": "2142880404",
     "timestamp": "1789492879",
     "path": "Medium/0503_Next_Greater_Element_II.java"
+  },
+  {
+    "problemId": "1320",
+    "problemTitle": "Remove All Adjacent Duplicates in String II",
+    "problemSlug": "remove-all-adjacent-duplicates-in-string-ii",
+    "difficulty": "Medium",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "39 ms",
+    "memory": "47 MB",
+    "submissionId": "2176559036",
+    "timestamp": "1792439183",
+    "path": "Medium/1320_Remove_All_Adjacent_Duplicates_in_String_II.java"
   }
 ]
