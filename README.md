@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 21
+Total Solved: 22
 
 ## Easy
 
@@ -27,6 +27,7 @@ Total Solved: 21
 - Maximum Sum Circular Subarray ([Java](Medium/0954_Maximum_Sum_Circular_Subarray.java))
 - Interval List Intersections ([Java](Medium/1028_Interval_List_Intersections.java))
 - Maximum Subarray Sum with One Deletion ([Java](Medium/1288_Maximum_Subarray_Sum_with_One_Deletion.java))
+- Remove All Adjacent Duplicates in String II ([Java](Medium/1320_Remove_All_Adjacent_Duplicates_in_String_II.java))
 - Maximum Absolute Sum of Any Subarray ([Java](Medium/1849_Maximum_Absolute_Sum_of_Any_Subarray.java))
 
 ## Hard
@@ -38,7 +39,7 @@ Total Solved: 21
 | Difficulty | Count |
 |------------|--------|
 | Easy | 9 |
-| Medium | 12 |
+| Medium | 13 |
 | Hard | 0 |
 
 ---
