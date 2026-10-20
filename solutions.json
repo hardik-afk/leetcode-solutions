@@ -284,5 +284,18 @@
     "submissionId": "2176559036",
     "timestamp": "1792439183",
     "path": "Medium/1320_Remove_All_Adjacent_Duplicates_in_String_II.java"
+  },
+  {
+    "problemId": "387",
+    "problemTitle": "First Unique Character in a String",
+    "problemSlug": "first-unique-character-in-a-string",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "44 ms",
+    "memory": "46.7 MB",
+    "submissionId": "2177088999",
+    "timestamp": "1792502423",
+    "path": "Easy/0387_First_Unique_Character_in_a_String.java"
   }
 ]
