@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 22
+Total Solved: 23
 
 ## Easy
 
@@ -8,6 +8,7 @@ Total Solved: 22
 - Best Time to Buy and Sell Stock ([Java](Easy/0121_Best_Time_to_Buy_and_Sell_Stock.java))
 - Happy Number ([Java](Easy/0202_Happy_Number.java))
 - Reverse String ([Java](Easy/0344_Reverse_String.java))
+- First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
 - Next Greater Element I ([Java](Easy/0496_Next_Greater_Element_I.java))
 - Middle of the Linked List ([Java](Easy/0908_Middle_of_the_Linked_List.java))
 - Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
@@ -38,7 +39,7 @@ Total Solved: 22
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 9 |
+| Easy | 10 |
 | Medium | 13 |
 | Hard | 0 |
 
