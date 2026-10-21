@@ -297,5 +297,18 @@
     "submissionId": "2177088999",
     "timestamp": "1792502423",
     "path": "Easy/0387_First_Unique_Character_in_a_String.java"
+  },
+  {
+    "problemId": "383",
+    "problemTitle": "Ransom Note",
+    "problemSlug": "ransom-note",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "2 ms",
+    "memory": "45.5 MB",
+    "submissionId": "2178235882",
+    "timestamp": "1792606053",
+    "path": "Easy/0383_Ransom_Note.java"
   }
 ]
