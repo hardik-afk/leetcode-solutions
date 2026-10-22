@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 24
+Total Solved: 25
 
 ## Easy
 
@@ -14,6 +14,7 @@ Total Solved: 24
 - Middle of the Linked List ([Java](Easy/0908_Middle_of_the_Linked_List.java))
 - Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
 - Remove All Adjacent Duplicates In String ([Java](Easy/1128_Remove_All_Adjacent_Duplicates_In_String.java))
+- Maximum Number of Balloons ([Java](Easy/1297_Maximum_Number_of_Balloons.java))
 - Shuffle the Array ([Java](Easy/1580_Shuffle_the_Array.java))
 
 ## Medium
@@ -40,7 +41,7 @@ Total Solved: 24
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 11 |
+| Easy | 12 |
 | Medium | 13 |
 | Hard | 0 |
 
