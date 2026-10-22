@@ -310,5 +310,18 @@
     "submissionId": "2178235882",
     "timestamp": "1792606053",
     "path": "Easy/0383_Ransom_Note.java"
+  },
+  {
+    "problemId": "1297",
+    "problemTitle": "Maximum Number of Balloons",
+    "problemSlug": "maximum-number-of-balloons",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "4 ms",
+    "memory": "42.9 MB",
+    "submissionId": "2178674931",
+    "timestamp": "1792660194",
+    "path": "Easy/1297_Maximum_Number_of_Balloons.java"
   }
 ]
