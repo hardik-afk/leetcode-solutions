@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Total Solved: 25
+Total Solved: 26
 
 ## Easy
 
@@ -10,6 +10,7 @@ Total Solved: 25
 - Reverse String ([Java](Easy/0344_Reverse_String.java))
 - Ransom Note ([Java](Easy/0383_Ransom_Note.java))
 - First Unique Character in a String ([Java](Easy/0387_First_Unique_Character_in_a_String.java))
+- Longest Palindrome ([Java](Easy/0409_Longest_Palindrome.java))
 - Next Greater Element I ([Java](Easy/0496_Next_Greater_Element_I.java))
 - Middle of the Linked List ([Java](Easy/0908_Middle_of_the_Linked_List.java))
 - Squares of a Sorted Array ([Java](Easy/1019_Squares_of_a_Sorted_Array.java))
@@ -41,7 +42,7 @@ Total Solved: 25
 
 | Difficulty | Count |
 |------------|--------|
-| Easy | 12 |
+| Easy | 13 |
 | Medium | 13 |
 | Hard | 0 |
 
