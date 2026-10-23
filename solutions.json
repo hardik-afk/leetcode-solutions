@@ -323,5 +323,18 @@
     "submissionId": "2178674931",
     "timestamp": "1792660194",
     "path": "Easy/1297_Maximum_Number_of_Balloons.java"
+  },
+  {
+    "problemId": "409",
+    "problemTitle": "Longest Palindrome",
+    "problemSlug": "longest-palindrome",
+    "difficulty": "Easy",
+    "language": "Java",
+    "extension": "java",
+    "runtime": "9 ms",
+    "memory": "42.7 MB",
+    "submissionId": "2179882831",
+    "timestamp": "1792776908",
+    "path": "Easy/0409_Longest_Palindrome.java"
   }
 ]
